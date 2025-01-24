@@ -1,20 +1,33 @@
 @import './base.css';
 
-body {  background-color: #181938; height: 100%;}
+body {
+  background-color: #181938;
+  height: 100%;
+}
 
 #app {
   min-height: 100vh;
   height: 100%;
   display: grid;
   grid-template-rows: auto 1fr auto;
-  background-color: var(--custom-bg-dark)
+  background-color: var(--custom-bg-dark);
 }
 
-a.link-white {  text-decoration: none; color: rgba(255, 255, 255, 0.7);}
-a.link-white:hover { color: rgba(255, 255, 255);}
+a.link-white {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.7);
+}
+a.link-white:hover {
+  color: rgba(255, 255, 255);
+}
 
-li {  list-style: none;}
+li {
+  list-style: none;
+}
 
-.accent-2 {color: var(--custom-accent-2)};
-.accent-1 {color: var(--custom-accent-1)};
-
+.accent-2 {
+  color: var(--custom-accent-2);
+}
+.accent-1 {
+  color: var(--custom-accent-1);
+}

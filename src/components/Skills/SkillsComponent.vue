@@ -5,7 +5,7 @@ import datas from '@/assets/datas/data.json'
 
 <template>
   <div class="container text-center text-white my-3">
-    <h1>{{ $t('skill.label') }}</h1>
+    <h1 class="accent-2">{{ $t('skill.label') }}</h1>
     <div class="skill-list mt-4 g-4 d-flex flex-row flex-wrap align-items-stretch">
       <SkillsCard
         v-for="skill in skills"

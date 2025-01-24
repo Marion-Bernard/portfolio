@@ -4,10 +4,9 @@
       <RouterLink class="navbar-brand text-white" to="/">Marion BERNARD</RouterLink>
       <RouterLink class="link-white" to="/">{{ $t('presentation.label') }}</RouterLink>
       <RouterLink class="link-white" to="/Experience">{{ $t('experience.label') }}</RouterLink>
-      <RouterLink class="link-white" to="/Study">{{ $t('study.label') }}</RouterLink>
+      <RouterLink class="link-white" to="/Projects" >{{ $t('projects.label') }}</RouterLink>
       <RouterLink class="link-white" to="/Skills">{{ $t('skill.label') }}</RouterLink>
-      <RouterLink to="/Projects" class="link-white">{{ $t('projects.label') }}</RouterLink>
-      <RouterLink to="/Contact" class="link-white">{{ $t('contact') }}</RouterLink>
+      <RouterLink class="link-white" to="/Contact" >{{ $t('contact') }}</RouterLink>
       <div class="d-flex">
         <button class="btn" @click="changeLanguage('en')">
           <img src="/icons/english-flag.png" alt="English" width="30" />

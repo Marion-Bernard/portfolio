@@ -1,5 +1,5 @@
 <script>
-import datas from '@/assets/datas/data.json'
+import datas from '@/assets/datas/experience.json'
 import ExperiencesCard from './WorkingExperiencesCard.vue'
 import StudiesCard from './StudiesCard.vue'
 

@@ -1,6 +1,6 @@
 <script setup>
 import SkillsCard from './SkillsCard.vue'
-import datas from '@/assets/datas/data.json'
+import datas from '@/assets/datas/experience.json'
 </script>
 
 <template>

@@ -1,0 +1,20 @@
+[
+    {
+        "name": "PacWoman",
+        "date": 2024,
+        "type": "Learning",
+        "description": "Classic Pac-Man clone made for learning purposes.",
+        "tech": ["HTML", "CSS", "JS", "Canvas"],
+        "image": "/portfolio/img/projects/logo_pacwoman.png",
+        "url": "https://marion-bernard.github.io/pacWoman/index.html"
+    },
+    {
+        "name": "Snakie",
+        "date": 2024,
+        "type": "Learning",
+        "description": "Fun Snake-inspired project to practice JS logic.",
+        "tech": ["HTML", "CSS", "JS", "Tailwind"],
+        "image": "/portfolio/img/projects/snake.png",
+        "url": "https://marion-bernard.github.io/Snake-bolant/"
+    }
+]

@@ -19,7 +19,7 @@ const messages = {
       label: 'Skills',
     },
     projects: {
-      label: 'Projects',
+      label: 'Projects - Work in Progress',
     },
     contact: 'Contact',
     presentation: {
@@ -45,7 +45,7 @@ const messages = {
       label: 'Compétences',
     },
     projects: {
-      label: 'Projets',
+      label: 'Projets - En cours',
     },
     contact: 'Contact',
     presentation: {

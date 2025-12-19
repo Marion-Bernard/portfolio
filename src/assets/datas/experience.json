@@ -4,6 +4,20 @@
       "id": 1,
       "company": "Articque by Chapsvision",
       "link": "https://www.articque.com/",
+      "positionFr": "Alternante - Experte en Architecture et Développement Logiciel (EADL)",
+      "positionEn": "Internship - Expert in Architecture and Software Development (EADL)",
+      "startDate": "2025",
+      "endDate": "Nov. 2027",
+      "icon": "/portfolio/icons/internship.png",
+      "type": "internship",
+      "descriptionFr": "Gestion de projet AGILE, étude des besoins, développement en PHP/SYMFONY et .net",
+      "descriptionEn": "Agile project management, requirements analysis, development in PHP/Symfony and .NE",
+      "image": "/portfolio/img/companies/articque-chapsvision.png"
+    },
+    {
+      "id": 2,
+      "company": "Articque by Chapsvision",
+      "link": "https://www.articque.com/",
       "positionFr": "Alternante - Conceptrice Développeuse d'application",
       "positionEn": "Internship - Application Developer and Designer",
       "startDate": "2024",
@@ -15,7 +29,7 @@
       "image": "/portfolio/img/companies/articque-chapsvision.png"
     },
     {
-      "id": 2,
+      "id": 3,
       "company": "Articque by Chapsvision",
       "link": "https://www.articque.com/",
       "positionFr": "Alternante - Développeuse Web Web Mobile",
@@ -29,7 +43,7 @@
       "image": "/portfolio/img/companies/articque-chapsvision.png"
     },
     {
-      "id": 3,
+      "id": 4,
       "company": "SEPANT",
       "link": "https://sepant.fr/",
       "positionFr": "Chargée de mission Environnement",
@@ -43,7 +57,7 @@
       "image": "/portfolio/img/companies/sepant.png"
     },
     {
-      "id": 4,
+      "id": 5,
       "company": "Pint of Science",
       "link": "https://pintofscience.fr/",
       "positionFr": "Bénévolat - Chargée d'organisation d'évènements ",
@@ -57,7 +71,7 @@
       "image": "/portfolio/img/companies/POS.png"
     },
     {
-      "id": 5,
+      "id": 6,
       "company": "Réserve Naturelle Landes de Monteneuf",
       "link": "https://reserves-naturelles.org/reserves/landes-de-monteneuf/",
       "positionFr": "Service Civique - Chargée de mission environnement ",
@@ -71,7 +85,7 @@
       "image": "/portfolio/img/companies/RNR-landes.png"
     },
     {
-      "id": 6,
+      "id": 7,
       "company": "Gold of Bengal",
       "link": "https://reserves-naturelles.org/reserves/landes-de-monteneuf/",
       "positionFr": "Bénévolat - Traductrice FR-EN ",
@@ -88,6 +102,14 @@
   "study": [
     {
       "id": 1,
+      "institution": "ENI - Nantes",
+      "programEn": "Experte en Architecture et Développement Logiciel (EADL)",
+      "programFr": "Expert in Architecture and Software Development",
+      "date": "2025 - 2027",
+      "image": "/portfolio/img/schools/ENI.png"
+    },
+    {
+      "id": 2,
       "institution": "CEFIM",
       "programEn": "Application Developer and Designer",
       "programFr": "Conceptrice Développeuse d'Application",
@@ -95,7 +117,7 @@
       "image": "/portfolio/img/schools/CEFIM.png"
     },
     {
-      "id": 2,
+      "id": 3,
       "institution": "CEFIM",
       "programEn": "Web Development",
       "programFr": "Développement Web & Web Mobile",
@@ -103,7 +125,7 @@
       "image": "/portfolio/img/schools/CEFIM.png"
     },
     {
-      "id": 3,
+      "id": 4,
       "institution": "AgroCampus Ouest",
       "programEn": "Agronomist",
       "programFr": "Ingénieur Agronome",
@@ -111,7 +133,7 @@
       "image": "/portfolio/img/schools/ACO.png"
     },
     {
-      "id": 4,
+      "id": 5,
       "institution": "Norwegian University of Life Science",
       "programEn": "Semester abroad",
       "programFr": "Semestre à l'étranger",
@@ -119,7 +141,7 @@
       "image": "/portfolio/img/schools/NMBU.png"
     },
     {
-      "id": 5,
+      "id": 6,
       "institution": "Lycée Descartes",
       "programEn": "Preparatory class BCPST",
       "programFr": "Prépa BCPST",
@@ -224,13 +246,20 @@
       "title": "Github",
       "tag": "app",
       "logo": "/portfolio/img/skills/github.png",
-      "level": 3
+      "level": 4
     },
     {
       "id": 15,
       "title": "Docker",
       "tag": "app",
       "logo": "/portfolio/img/skills/docker.png",
+      "level": 1
+    },
+    {
+      "id": 16,
+      "title": "Dotnet",
+      "tag": "BACK",
+      "logo": "/portfolio/img/skills/dotnet.png",
       "level": 1
     }
   ]

@@ -1,0 +1,19 @@
+[
+    { "id": 1,   "title": "Symfony",      "tag": "BACK",      "logo": "/portfolio/img/skills/symfony.png",      "level": 4},
+    { "id": 2,   "title": "PHP",          "tag": "BACK",      "logo": "/portfolio/img/skills/php.png",          "level": 4},
+    { "id": 3,   "title": "Dotnet",       "tag": "BACK",      "logo": "/portfolio/img/skills/dotnet.png",       "level": 2},
+    { "id": 4,   "title": "Github",       "tag": "app",       "logo": "/portfolio/img/skills/github.png",       "level": 4},
+    { "id": 5,   "title": "Docker",       "tag": "app",       "logo": "/portfolio/img/skills/docker.png",       "level": 2},
+    { "id": 6,   "title": "Postgrès",     "tag": "BACK",      "logo": "/portfolio/img/skills/postgres.png",     "level": 3},
+    { "id": 7,   "title": "SQL",          "tag": "BACK",      "logo": "/portfolio/img/skills/sql.png",          "level": 4},
+    { "id": 8,   "title": "JavaScript",   "tag": "FRONT",     "logo": "/portfolio/img/skills/js.png",           "level": 4},
+    { "id": 9,   "title": "REACT",        "tag": "FRONT",     "logo": "/portfolio/img/skills/react.png",        "level": 2},
+    { "id": 10,  "title": "VUEJS",        "tag": "FRONT",     "logo": "/portfolio/img/skills/vue.png",          "level": 3},
+    { "id": 11,  "title": "HTML",         "tag": "FRONT",     "logo": "/portfolio/img/skills/html.png",         "level": 4},
+    { "id": 12,  "title": "CSS",          "tag": "FRONT",     "logo": "/portfolio/img/skills/css.png",          "level": 4},
+    { "id": 13,  "title": "Bootstrap",    "tag": "FRONT",     "logo": "/portfolio/img/skills/bootstrap.png",    "level": 4},
+    { "id": 14,  "title": "Tailwind",     "tag": "FRONT",      "logo": "/portfolio/img/skills/tailwind.png",    "level": 2},
+    { "id": 15,  "title": "Python",       "tag": "BACK",      "logo": "/portfolio/img/skills/python.png",       "level": 2},
+    { "id": 16,  "title": "Figma",        "tag": "app",       "logo": "/portfolio/img/skills/figma.png",        "level": 2},
+    { "id": 17,  "title": "Wordpress",    "tag": "app",       "logo": "/portfolio/img/skills/wordpress.png",    "level": 3}
+]

@@ -7,13 +7,16 @@ import projectsData from '@/assets/datas/project.json'
 <template>
   <div class="container text-center text-white my-3">
     <h1 class="accent-2">{{ $t('projects.label') }}</h1>
-    <div class="skill-list mt-4 g-4 d-flex flex-row flex-wrap align-items-stretch">
+    <div class="projects-grid">
       <ProjectsCard
         v-for="project in projectsData"
         :key="project.name"
         :date="project.date"
         :name="project.name"
-        :description="project.description"
+        :descriptionFr="project.descriptionFr"
+        :descriptionEn="project.descriptionEn"
+        :linkLabel="project.linkLabel"
+        :linkUrl="project.linkUrl"
         :tech="project.tech"
         :image="project.image"
         :url="project.url"
@@ -22,18 +25,10 @@ import projectsData from '@/assets/datas/project.json'
   </div>
 </template>
 
-<script>
-export default {
-  name: 'ProjectsComponent',
-  components: {
-    ProjectsCard,
-  },
-  data() {
-    return {
-      projects: projectsData,
-    }
-  },
-}
-</script>
-
-<style scoped></style>
+<style scoped>
+  .projects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    gap: 2rem;
+  }
+</style>

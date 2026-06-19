@@ -45,7 +45,7 @@ const messages = {
       label: 'Compétences',
     },
     projects: {
-      label: 'Projets - En cours',
+      label: 'Projets - En cours de rédaction',
     },
     contact: 'Contact',
     presentation: {

@@ -1,6 +1,7 @@
 <script setup>
 import SkillsCard from './SkillsCard.vue'
-import datas from '@/assets/datas/experience.json'
+import skills from '@/assets/datas/skill.json'
+
 </script>
 
 <template>
@@ -27,7 +28,7 @@ export default {
   },
   data() {
     return {
-      skills: datas.skill,
+      skills: skills,
     }
   },
 }

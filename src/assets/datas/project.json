@@ -1,10 +1,21 @@
 [
     {
+        "name": "The eye of the Tiger",
+        "date": 2025,
+        "type": "Learning",
+        "descriptionFr" : "Jeu de survie, projet éducatif REACT",
+        "descriptionEn": "Survival gale made for learning purposes (REACT).",
+        "tech": ["REACT"],
+        "image": "/portfolio/img/projects/survivor_game.png",
+        "url": "https://marion-bernard.github.io/survivor-game"
+    },
+    {
         "name": "PacWoman",
         "date": 2024,
         "type": "Learning",
-        "description": "Classic Pac-Man clone made for learning purposes.",
-        "tech": ["HTML", "CSS", "JS", "Canvas"],
+        "descriptionFr" : "Pac-Man classique, projet éducatif",
+        "descriptionEn": "Classic Pac-Man clone made for learning purposes.",
+        "tech": ["HTML", "CSS", "JavaScript", "Canvas"],
         "image": "/portfolio/img/projects/logo_pacwoman.png",
         "url": "https://marion-bernard.github.io/pacWoman/index.html"
     },
@@ -12,9 +23,22 @@
         "name": "Snakie",
         "date": 2024,
         "type": "Learning",
-        "description": "Fun Snake-inspired project to practice JS logic.",
-        "tech": ["HTML", "CSS", "JS", "Tailwind"],
+        "descriptionFr" : "Jeu inspiré du célèbre Snake, projet éducatif JS",
+        "descriptionEn": "Fun Snake-inspired project to practice JS logic.",
+        "tech": ["HTML", "CSS", "JavaScript", "Tailwind"],
         "image": "/portfolio/img/projects/snake.png",
         "url": "https://marion-bernard.github.io/Snake-bolant/"
+    }, 
+    { 
+        "name": "News Homepage ",
+        "date": 2023,
+        "type": "Learning",
+        "descriptionFr" : "Un de mes 1er projet éducatif HTML/CSS, tiré de ",
+        "descriptionEn": "One off my first learning project HTML/CSS, from ",
+        "linkLabel" : "Frontend Mentor", 
+        "linkUrl" : "https://www.frontendmentor.io/solutions/news-homepage-PqJc_mGyBG",
+        "tech": ["HTML", "CSS"],
+        "image": "/portfolio/img/projects/news_homepage.png",
+        "url": "https://github.com/Marion-Bernard/news-homepage"
     }
 ]
